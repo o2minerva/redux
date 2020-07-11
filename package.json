@@ -8,17 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/org-minerva/redux.git"
+    "url": "git+https://github.com/o2minerva/redux.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/org-minerva/redux/issues"
+    "url": "https://github.com/o2minerva/redux/issues"
   },
-  "homepage": "https://github.com/org-minerva/redux#readme",
+  "homepage": "https://github.com/o2minerva/redux#readme",
   "devDependencies": {
     "release-it": "12.4.3"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
